@@ -50,7 +50,7 @@ export default class TheHeader extends Component {
         </ul>
       </nav>
       <a href="#/about" class="user">
-        <img src="../../My_icon.png" alt="User">
+        <img src="https://github.com/parkJi-yun/Movie_Search/blob/main/favicon.png" alt="User">
       </a>
     `
   }
