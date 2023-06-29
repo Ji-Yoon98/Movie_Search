@@ -1,6 +1,6 @@
 # 🍿 Movie_Search
 
-### OMDb API를 활용 VanillaJS 영화 검색 애플리케이션
+### OMDb API를 활용 TypeScript 영화 검색 애플리케이션
 
 👉🏻 **[사이트 바로가기](https://movie-search-flame.vercel.app/#/)**
 
